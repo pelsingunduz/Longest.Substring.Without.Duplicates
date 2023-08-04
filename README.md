@@ -7,7 +7,10 @@ the condition, returning any of these substrings would be a valid
 answer.
 -----------------------------------------------------------------------------------
 1-'longest_substring' ve 'current_substring' adında iki değişken oluşturulur.
+
 2-Dizedeki karakterleri gezmek için döngü başlatılır.
+
 3-Mevcut alt dize tekrarlanmayan bir karakter gelene kadar kısaltılır.
+
 4-Döngü bittiğinde 'longest_substring' değişkeni en uzun tekrarsız alt dizeyi içerir.
 -------------------------------------------------------------------------------------
